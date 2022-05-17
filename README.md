@@ -34,3 +34,6 @@ Key has now been saved:
 
 GKE_PROJECT and GKE_SA_KEY have been added to my Github repo secrets:  
 <img width="1680" alt="10 secret keys added" src="https://user-images.githubusercontent.com/99227228/168748332-83f76f85-5561-4f78-9c99-2b729345c62e.png">
+
+A release should trigger CD:  
+<img width="1680" alt="11 release triggers CD" src="https://user-images.githubusercontent.com/99227228/168749270-f5554054-4f3b-440e-96ee-faec3b108453.png">
