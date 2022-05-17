@@ -23,3 +23,14 @@ I also modified it to use secrets: GKE_RPOJECT and GKE_SA_KEY
 I noticed the comments in the given code, in which professor stated to change 4 replicas to 2 replicas:
 <img width="1680" alt="06 professor stated he had issues deploying with 4 replicas so change to 2" src="https://user-images.githubusercontent.com/99227228/168744759-cabf8b07-c26b-4629-a6ff-367239fbb9f9.png">
 
+Service account created:  
+<img width="1680" alt="07 service account creation" src="https://user-images.githubusercontent.com/99227228/168748146-31a51c87-a581-440d-b011-65112df303db.png">
+
+Key donload as a JSON file:  
+<img width="1680" alt="08 json file key" src="https://user-images.githubusercontent.com/99227228/168748216-984939bf-62a7-439b-9580-037a6a42ef03.png">
+
+Key has now been saved:  
+<img width="1680" alt="09 key saved" src="https://user-images.githubusercontent.com/99227228/168748272-7ea7e255-1fff-4df0-85f8-43ef834d688e.png">
+
+GKE_PROJECT and GKE_SA_KEY have been added to my Github repo secrets:  
+<img width="1680" alt="10 secret keys added" src="https://user-images.githubusercontent.com/99227228/168748332-83f76f85-5561-4f78-9c99-2b729345c62e.png">
