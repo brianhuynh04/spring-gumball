@@ -14,3 +14,12 @@ Since the job completed, this means my build succeeded and CI was successful.
 
 
 # CD Workflow (Part 2)  
+
+I several changes to the google.yml file. As shown below, I changed GKE_CLUSTER to cmpe172 to match my cluster.  
+I changed the deployment_name,repository, and image to spring-gumball.  
+I also modified it to use secrets: GKE_RPOJECT and GKE_SA_KEY  
+<img width="1680" alt="05 google yml" src="https://user-images.githubusercontent.com/99227228/168744162-943d87e0-f697-49ec-beb4-20ad83055be5.png">
+
+I noticed the comments in the given code, in which professor stated to change 4 replicas to 2 replicas:
+<img width="1680" alt="06 professor stated he had issues deploying with 4 replicas so change to 2" src="https://user-images.githubusercontent.com/99227228/168744759-cabf8b07-c26b-4629-a6ff-367239fbb9f9.png">
+
