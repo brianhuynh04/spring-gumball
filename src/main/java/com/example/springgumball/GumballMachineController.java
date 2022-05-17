@@ -18,14 +18,10 @@ import lombok.extern.slf4j.Slf4j;
 
 import com.example.gumballmachine.GumballMachine ;
 
-// Make a change to the code and commit to main branch to trigger the action. Take screenhots of your result.
-
-
 @Slf4j
 @Controller
 @RequestMapping("/")
 public class GumballMachineController {
-
 
     @GetMapping
     public String getAction( @ModelAttribute("command") GumballCommand command, 
