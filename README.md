@@ -32,8 +32,11 @@ Key donload as a JSON file:
 Key has now been saved:  
 <img width="1680" alt="09 key saved" src="https://user-images.githubusercontent.com/99227228/168748272-7ea7e255-1fff-4df0-85f8-43ef834d688e.png">
 
+Key shown in Dashboard:  
+<img width="1680" alt="10 keys dashboard" src="https://user-images.githubusercontent.com/99227228/168749603-53449c4c-b617-44f5-96f9-07b776727a63.png">
+
 GKE_PROJECT and GKE_SA_KEY have been added to my Github repo secrets:  
-<img width="1680" alt="10 secret keys added" src="https://user-images.githubusercontent.com/99227228/168748332-83f76f85-5561-4f78-9c99-2b729345c62e.png">
+<img width="1680" alt="11 secret keys added" src="https://user-images.githubusercontent.com/99227228/168749650-939a543e-df31-452d-91a5-c59a2a890765.png">
 
 A release should trigger CD:  
-<img width="1680" alt="11 release triggers CD" src="https://user-images.githubusercontent.com/99227228/168749270-f5554054-4f3b-440e-96ee-faec3b108453.png">
+<img width="1680" alt="12 release triggers CD" src="https://user-images.githubusercontent.com/99227228/168749676-5bc67899-3227-4bdb-b09e-75b7c7406eaf.png">
